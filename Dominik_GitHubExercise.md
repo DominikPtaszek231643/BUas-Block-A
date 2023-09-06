@@ -1,0 +1,3 @@
+# Milestone
+### For me, one of the most significant milestones in the history of AI was coining the term ,,AI" at the *Dartmouth Conference* in the US in 1956. Moreover, it was the first conference of this kind where people from many different fields tried to group together and set a new path for development. This meeting resulted in a huge increase in AI's popularity. For instance, the creation of new programming languages meant for AI or the establishment of new research labs for that purpose. All of this clearly presents that this conference was essential for the rapid development of the **AI** concept.
+
